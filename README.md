@@ -30,3 +30,4 @@ Requirements
 Installation 
 
 	1. Run screenCapture.bat to take a screenshot of the whole screen and output it in a file called test.tiff
+	2. TBF
