@@ -1,6 +1,7 @@
 # TessRO
 
 Summary
+
 Reading MvP announcement and write it on a google spreadsheet.
 Will be using Node.Js environment together with open source modules.
 
@@ -24,4 +25,4 @@ Requirements
 		1. ScreenCapture: https://github.com/npocmaka/batch.scripts/blob/master/hybrids/.net/c/screenCapture.bat
 
 Installation 
-  1. Run screenCapture.bat to take a screenshot of the whole screen and output it in a file called test.tiff
+	1. Run screenCapture.bat to take a screenshot of the whole screen and output it in a file called test.tiff
