@@ -2,17 +2,17 @@
 
 Summary
 
-Reading MvP announcement and write it on a google spreadsheet.
-Will be using Node.Js environment together with open source modules.
-
-A decently trained Tesseract OCR to read the chatbox is needed.
+	Reading MvP announcement and write it on a google spreadsheet.
+	Will be using Node.Js environment together with open source modules.
+	
+	A decently trained Tesseract OCR to read the chatbox is needed.
 
 
 Objective
 
-Project with the objective of registering the time when a MVP dies in a Google Spreadsheet; since TRO 
-doesn't provide the time in the chat box, we needed to build something so it helps us hunt MVP's more
-efficiently.
+	Project with the objective of registering the time when a MVP dies in a Google Spreadsheet; since TRO 
+	doesn't provide the time in the chat box, we needed to build something so it helps us hunt MVP's more
+	efficiently.
 
 Requirements
 
